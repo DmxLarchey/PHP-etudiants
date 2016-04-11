@@ -45,7 +45,7 @@ cours. Votre travail est la mise en oeuvre formelle de ces
 preuves informelles dans l'outil Coq.
 
 Enfin, nous organiserons une **soutenance sur machine** d'une
-durée individuelle d'environ 15 minutes à la date du Jeudi 18 mai, 
+durée individuelle d'environ 15 minutes à la date du Jeudi 18 Mai, 
 où vous nous présenterez le résultat de
 votre travail et nous exposerez les éventuelles difficultés
 que vous avez rencontrées.
