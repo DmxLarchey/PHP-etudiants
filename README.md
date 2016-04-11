@@ -32,8 +32,7 @@ toutes vos preuves devraient se terminer par *Qed* et ne
 doivent plus contenir la tactique *admit*.
 
 Le résultat de votre travail est à me rendre par email
-(larchey@loria.fr) à une date qui sera fixée ultérieurement
-autour de mi-mai. Le travail
+(larchey@loria.fr) à la date du Mardi 16 Mai. Le travail
 est **individuel** même si vous pouvez échanger des idées
 entre vous pour résoudre les exercices. N'oubliez pas
 de consulter la documentation en ligne de Coq
@@ -46,8 +45,8 @@ cours. Votre travail est la mise en oeuvre formelle de ces
 preuves informelles dans l'outil Coq.
 
 Enfin, nous organiserons une **soutenance sur machine** d'une
-durée individuelle d'environ 15 minutes (la date vous sera communiquée
-ultérieurement) où vous nous présenterez le résultat de
+durée individuelle d'environ 15 minutes à la date du Jeudi 18 mai, 
+où vous nous présenterez le résultat de
 votre travail et nous exposerez les éventuelles difficultés
 que vous avez rencontrées.
 
